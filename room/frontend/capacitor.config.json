@@ -1,0 +1,19 @@
+{
+  "appId": "com.roomexpense.admin",
+  "appName": "Room Expense Admin",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "url": ""
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "backgroundColor": "#ffffffff",
+      "showSpinner": false,
+      "androidSpinnerStyle": "large",
+      "spinnerColor": "#999999"
+    }
+  }
+}
